@@ -10,6 +10,10 @@
 <img src="figures/Figure10.jpg" width="500" height="600">
 </p>
 
+<p align="center">
+<img src="figures/Figure9.jpg" width="600" height="600">
+</p>
+
 ```
 @article{GAVAHI2021115511,
 title = {DeepYield: A combined convolutional neural network with long short-term memory for crop yield forecasting},
