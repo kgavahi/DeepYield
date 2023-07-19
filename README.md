@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="figures/Figure10.jpg" width="500" height="600">
+<img src="figures/Figure10.jpg" width="550" height="600">
 </p>
 
 <p align="center">
